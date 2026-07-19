@@ -34,6 +34,11 @@ Flutter-приложение для отслеживания питания и �
 
 **Стек:** Python, Aiogram 3, SQLAlchemy 2.0, APScheduler
 
+### [ВАШ Эксперт — сайт под ключ для клиента](https://github.com/bmxer32/v-experto)
+Корпоративный сайт оценочной компании (г. Иваново): дизайн, разработка, деплой, приём заявок в Telegram, аналитика. Живой сайт: [v-experto.ru](https://v-experto.ru).
+
+**Стек:** Next.js 15, React 19, Tailwind CSS v4, Telegram Bot API, Vercel
+
 ### [Narodniy VPN — клиент для Windows](https://github.com/bmxer32/NarodniyVPN-PC)
 Бесплатный VPN-клиент с split-tunneling и маршрутизацией Discord/Telegram/YouTube. Продукт с боевым сервером (Xray/VLESS), Telegram Mini-App магазином и платёжным бэкендом.
 
