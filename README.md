@@ -39,6 +39,11 @@ Flutter-приложение для отслеживания питания и �
 
 **Стек:** Next.js 15, React 19, Tailwind CSS v4, Telegram Bot API, Vercel
 
+### [Мир волос — сайт записи для мастера](https://github.com/bmxer32/mirvolos)
+Mobile-first лендинг мастера наращивания волос: онлайн-запись с заявками в Telegram/WhatsApp, галерея работ «до/после», SEO. Живой сайт: [mirvolos32.ru](https://mirvolos32.ru).
+
+**Стек:** Next.js 15, TypeScript, Tailwind CSS 4, Framer Motion
+
 ### [Narodniy VPN — клиент для Windows](https://github.com/bmxer32/NarodniyVPN-PC)
 Бесплатный VPN-клиент с split-tunneling и маршрутизацией Discord/Telegram/YouTube. Продукт с боевым сервером (Xray/VLESS), Telegram Mini-App магазином и платёжным бэкендом.
 
