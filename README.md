@@ -20,7 +20,7 @@
 ## 📂 Избранные проекты
 
 ### [Reko — AI Fitness & Nutrition Diary](https://github.com/bmxer32/reko)
-Flutter-приложение для отслеживания питания и тренировок с ИИ-сканером еды на базе Google Gemini. Опубликовано в Google Play. Offline-first, Firebase-синхронизация, тёмная тема.
+Flutter-приложение для отслеживания питания и тренировок с ИИ-сканером еды на базе Google Gemini. [Опубликовано в Google Play](https://play.google.com/store/apps/details?id=com.buren.fitness_app). Offline-first, Firebase-синхронизация, тёмная тема.
 
 **Стек:** Flutter, Riverpod, Drift, Firebase, Gemini API, OpenFoodFacts
 
@@ -45,7 +45,7 @@ Mobile-first лендинг мастера наращивания волос: о
 **Стек:** Next.js 15, TypeScript, Tailwind CSS 4, Framer Motion
 
 ### Narodniy VPN — клиенты для [Windows](https://github.com/bmxer32/NarodniyVPN-PC) и [Android](https://github.com/bmxer32/NarodniyVPN-Android)
-Собственный VPN-сервис с боевым сервером: split-tunneling, маршрутизация Discord/Telegram/YouTube, шифрование лицензий, Telegram Mini-App магазин и платёжный бэкенд. Android-клиент — Flutter с нативными каналами (MethodChannel) к Xray.
+Собственный VPN-сервис с боевым сервером: split-tunneling, маршрутизация Discord/Telegram/YouTube, шифрование лицензий, Telegram Mini-App магазин и платёжный бэкенд. Android-клиент — Flutter с нативными каналами (MethodChannel) к Xray, [опубликован в Google Play](https://play.google.com/store/apps/details?id=online.narodniyvpn.app).
 
 **Стек:** Flutter/Dart, VLESS/Reality (Xray), Electron, FastAPI, Telegram Mini-Apps
 
