@@ -44,10 +44,10 @@ Mobile-first лендинг мастера наращивания волос: о
 
 **Стек:** Next.js 15, TypeScript, Tailwind CSS 4, Framer Motion
 
-### [Narodniy VPN — клиент для Windows](https://github.com/bmxer32/NarodniyVPN-PC)
-Бесплатный VPN-клиент с split-tunneling и маршрутизацией Discord/Telegram/YouTube. Продукт с боевым сервером (Xray/VLESS), Telegram Mini-App магазином и платёжным бэкендом.
+### Narodniy VPN — клиенты для [Windows](https://github.com/bmxer32/NarodniyVPN-PC) и [Android](https://github.com/bmxer32/NarodniyVPN-Android)
+Собственный VPN-сервис с боевым сервером: split-tunneling, маршрутизация Discord/Telegram/YouTube, шифрование лицензий, Telegram Mini-App магазин и платёжный бэкенд. Android-клиент — Flutter с нативными каналами (MethodChannel) к Xray.
 
-**Стек:** VLESS/Reality, FastAPI, Telegram Mini-Apps
+**Стек:** Flutter/Dart, VLESS/Reality (Xray), Electron, FastAPI, Telegram Mini-Apps
 
 ---
 
