@@ -1,7 +1,7 @@
 # Буренков М.М. — Full-Stack Developer
 
 Создаю веб-приложения, мобильные приложения и Telegram-боты под ключ.
-7 лет опыта, 120+ проектов. Основатель студии [Narodniy Team](https://narodniy-team.ru).
+3 года коммерческого опыта, продукты с живой аудиторией в Google Play. Основатель студии [Narodniy Team](https://narodniy-team.ru).
 
 ---
 
